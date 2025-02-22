@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohammadZaid123
-- 👀 I’m interested in HTML|CSS|PYTHON|JAVASCRIPT
+- 👀 I’m interested in HTML|CSS|REACT|JAVASCRIPT| C++
 - 🌱 I’m currently learning PYTHON|JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...WEB DEVELOPMENT
 - 📫 Reach me : zaidu9123@gmail.com
