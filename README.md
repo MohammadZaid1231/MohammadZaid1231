@@ -34,11 +34,18 @@
 
 ### 🔥 Featured Projects
 
-- 🔗 [Smart Voice Assistant](https://github.com/MohammadZaid1231/Smart-Voice-Assistant)  
-  A smart web-based voice assistant for professionals — records and transcribes meetings, extracts action items, and uses Gemini AI for summaries. Built with React, Web Speech API, and Gemini API.
+---
 
-- 🔗 [Weather App](https://github.com/MohammadZaid1231/Weather-App)  
-  A clean and responsive weather app built with React and Tailwind CSS. Fetches live weather data using OpenWeather API. Try it here 👉 [WeatherPocket](https://weatherpocket.netlify.app)
+### 🚀 Featured Projects
+
+- 🌤️ [**Weather App**](https://github.com/MohammadZaid1231/Weather-App):  
+  A sleek weather application that fetches real-time data using a weather API. Built with HTML, CSS, and JavaScript.  
+
+- 🧠 [**Smart Voice Assistant**](https://github.com/MohammadZaid1231/Smart-Voice-Assistant):  
+  An AI-powered assistant for professionals. Records voice, extracts key actions, and generates tasks, summaries, and events. Built using React, Web Speech API, and Gemini API.
+
+---
+
 
 ---
 
